@@ -1,0 +1,10 @@
+{
+  "name": "m14_session_rd_rv",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
